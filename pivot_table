@@ -1,0 +1,54 @@
+Sale Date	Customer Name	City	State	Region	Product Category	Product Name	Quantity	Price per Unit	Sales Amount
+25-06-2023	Meera	Nagpur	Maharashtra	West	Furniture	Table	6	4016.25	24097.5
+01-11-2023	Vihaan	Coimbatore	Tamil Nadu	South	Stationery	Ruler	9	3801.85	34216.65
+06-04-2023	Nishant	Bengaluru	Karnataka	South	Stationery	Ruler	11	3594.07	39534.77
+19-02-2023	Kabir	Karol Bagh	Delhi	North	Electronics	Laptop	6	623.22	3739.32
+28-04-2023	Aditi	Coimbatore	Tamil Nadu	South	Stationery	Ruler	18	698.42	12571.56
+06-12-2023	Riya	Hubli	Karnataka	South	Groceries	Sugar	19	2494.11	47388.09
+24-06-2023	Aarav	Chennai	Tamil Nadu	South	Groceries	Sugar	15	3368.77	50531.55
+27-03-2023	Nishant	Mysuru	Karnataka	South	Furniture	Bed	2	962.28	1924.56
+01-04-2023	Kabir	Pune	Maharashtra	West	Clothing	Shirt	19	1065.27	20240.13
+17-12-2023	Kabir	Ahmedabad	Gujarat	West	Groceries	Rice	10	4507.62	45076.2
+21-07-2023	Aditi	Karol Bagh	Delhi	North	Clothing	Pants	4	4373.75	17495
+29-08-2023	Aryan	Coimbatore	Tamil Nadu	South	Clothing	Pants	4	791.28	3165.12
+06-05-2023	Riya	Mysuru	Karnataka	South	Groceries	Lentils	14	4868.33	68156.62
+28-11-2023	Aarav	Dwarka	Delhi	North	Clothing	Shirt	12	1958.77	23505.24
+13-01-2023	Nishant	Pune	Maharashtra	West	Stationery	Eraser	10	3690.75	36907.5
+20-06-2023	Nishant	Ahmedabad	Gujarat	West	Stationery	Eraser	17	1037.05	17629.85
+11-01-2023	Ananya	Hubli	Karnataka	South	Groceries	Oil	17	2215.55	37664.35
+30-11-2023	Ananya	Madurai	Tamil Nadu	South	Clothing	Jacket	19	1343.6	25528.4
+10-05-2023	Ananya	Nagpur	Maharashtra	West	Groceries	Lentils	8	4455.43	35643.44
+24-01-2023	Riya	Chennai	Tamil Nadu	South	Stationery	Pen	9	3892.79	35035.11
+06-12-2023	Riya	Karol Bagh	Delhi	North	Electronics	Laptop	9	4618.59	41567.31
+23-08-2023	Aryan	Hubli	Karnataka	South	Clothing	Jacket	11	3385.93	37245.23
+18-02-2023	Riya	Ahmedabad	Gujarat	West	Stationery	Eraser	14	2452.98	34341.72
+04-08-2023	Meera	Bengaluru	Karnataka	South	Electronics	Headphones	16	695.96	11135.36
+01-03-2023	Aditi	Ahmedabad	Gujarat	West	Electronics	Smartphone	1	1979.54	1979.54
+31-03-2023	Aarav	Karol Bagh	Delhi	North	Stationery	Ruler	9	3727.82	33550.38
+15-04-2023	Meera	Surat	Gujarat	West	Groceries	Oil	1	1495.61	1495.61
+28-12-2023	Aryan	Mumbai	Maharashtra	West	Clothing	Pants	18	1928.15	34706.7
+04-03-2023	Ishita	Mumbai	Maharashtra	West	Stationery	Eraser	1	4192.39	4192.39
+04-02-2023	Aryan	Chennai	Tamil Nadu	South	Electronics	Tablet	7	4988.71	34920.97
+19-04-2023	Riya	Hubli	Karnataka	South	Clothing	Pants	9	1328.13	11953.17
+21-09-2023	Aryan	Pune	Maharashtra	West	Furniture	Sofa	9	722.44	6501.96
+21-10-2023	Nishant	Nagpur	Maharashtra	West	Clothing	Pants	2	4726.06	9452.12
+06-02-2023	Riya	Bengaluru	Karnataka	South	Clothing	Shirt	3	2263.47	6790.41
+26-04-2023	Nishant	Mysuru	Karnataka	South	Furniture	Bed	20	4365.58	87311.6
+16-01-2023	Ananya	New Delhi	Delhi	North	Electronics	Headphones	20	3925.65	78513
+03-10-2023	Vihaan	Chennai	Tamil Nadu	South	Furniture	Sofa	3	3613.98	10841.94
+11-06-2023	Aryan	Mumbai	Maharashtra	West	Stationery	Pen	7	2483.54	17384.78
+02-10-2023	Ishita	Dwarka	Delhi	North	Furniture	Sofa	14	2145.21	30032.94
+24-11-2023	Aryan	Hubli	Karnataka	South	Electronics	Smartphone	8	4997.45	39979.6
+09-07-2023	Ananya	Ahmedabad	Gujarat	West	Electronics	Laptop	3	1753.98	5261.94
+20-04-2023	Aarav	Mysuru	Karnataka	South	Electronics	Smartphone	2	1207.92	2415.84
+10-03-2023	Aditi	Pune	Maharashtra	West	Electronics	Tablet	13	4196.33	54552.29
+03-05-2023	Kabir	Vadodara	Gujarat	West	Stationery	Ruler	18	1310.78	23594.04
+29-10-2023	Ananya	Pune	Maharashtra	West	Furniture	Sofa	20	2142.9	42858
+03-12-2023	Kabir	New Delhi	Delhi	North	Electronics	Tablet	19	1359.7	25834.3
+26-05-2023	Meera	Hubli	Karnataka	South	Furniture	Sofa	16	4896.07	78337.12
+26-12-2023	Ishita	Bengaluru	Karnataka	South	Stationery	Pen	8	4216.03	33728.24
+05-08-2023	Aditi	Pune	Maharashtra	West	Groceries	Rice	14	2134.06	29876.84
+25-04-2023	Kabir	Dwarka	Delhi	North	Furniture	Bed	6	1523.33	9139.98
+27-04-2023	Nishant	Madurai	Tamil Nadu	South	Groceries	Lentils	13	646.63	8406.19
+31-03-202
+04-02-2023	Kabir	Mumbai	Maharashtra	West	Clothing	Pants	2	2623.43	5246.86
